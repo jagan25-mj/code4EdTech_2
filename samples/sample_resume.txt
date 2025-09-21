@@ -1,0 +1,63 @@
+John Smith
+Software Developer | Python Specialist
+Email: john.smith@example.com | Phone: (555) 123-4567
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced Software Developer with 5 years of expertise in Python development, web applications, and machine learning. Proven track record of delivering high-quality software solutions and leading development teams. Strong background in full-stack development with modern frameworks and cloud technologies.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, Java, SQL, HTML/CSS
+- Web Frameworks: Django, Flask, React, Node.js, Express.js
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud Platforms: AWS (EC2, S3, Lambda), Docker, Kubernetes
+- Machine Learning: TensorFlow, scikit-learn, pandas, numpy
+- Tools: Git, Jenkins, JIRA, VS Code, PyCharm
+- Soft Skills: Team Leadership, Project Management, Problem Solving, Communication
+
+PROFESSIONAL EXPERIENCE
+
+Senior Python Developer - TechCorp Solutions (2021 - Present)
+• Led a team of 4 developers in creating scalable web applications using Django and React
+• Implemented machine learning models for customer analytics, increasing engagement by 25%
+• Designed and developed REST APIs serving 100k+ daily requests
+• Optimized database queries reducing response times by 40%
+• Mentored junior developers and conducted code reviews
+
+Python Developer - StartupXYZ (2019 - 2021)
+• Developed full-stack web applications using Flask and JavaScript
+• Built automated testing frameworks improving code coverage to 90%
+• Integrated third-party APIs and payment systems
+• Collaborated with cross-functional teams using Agile methodology
+• Deployed applications on AWS using Docker containers
+
+Junior Software Developer - DevCompany (2018 - 2019)
+• Developed Python scripts for data processing and automation
+• Worked on frontend development using HTML, CSS, and JavaScript
+• Participated in daily standups and sprint planning sessions
+• Fixed bugs and implemented new features in existing applications
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley (2014 - 2018)
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Machine Learning
+
+PROJECTS
+E-Commerce Platform (2022)
+• Built a full-stack e-commerce platform using Django, React, and PostgreSQL
+• Implemented payment processing with Stripe API
+• Deployed on AWS with Docker and implemented CI/CD pipeline
+
+Data Analytics Dashboard (2021)
+• Created an interactive dashboard for business intelligence using Python and Plotly
+• Processed large datasets with pandas and implemented real-time data visualization
+• Used Redis for caching and improved dashboard loading time by 60%
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2022)
+• Python Institute Certified Python Professional (2021)
+• Scrum Master Certification (2020)
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
